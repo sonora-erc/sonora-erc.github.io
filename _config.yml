@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/so-simple-theme"
+logo: "/images/icon.png"
+locale: "en-us"
+title: "SONORA"
+mathjax: true

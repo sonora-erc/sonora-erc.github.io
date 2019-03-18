@@ -1,0 +1,14 @@
+*.gem
+.bundle
+.DS_Store
+_site
+Gemfile.lock
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.gz
+*.fls
+*.fdb_latexmk
+*.swp
