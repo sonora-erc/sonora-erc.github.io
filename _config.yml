@@ -2,6 +2,7 @@ remote_theme: "mmistakes/so-simple-theme"
 logo: "/images/icon.png"
 locale: "en-us"
 title: "SONORA"
+description: "The Spatial Dynamics of Room Acoustics"
 mathjax: true
 google_fonts:
   - name: "Source Sans Pro"

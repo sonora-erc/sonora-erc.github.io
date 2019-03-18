@@ -6,3 +6,5 @@ entries_layout: list
 ---
 
 TODO
+
+See also [the github page](https://github.com/sonora-erc).
